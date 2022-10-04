@@ -1,0 +1,370 @@
+/* _content/BeautifulGate.Component/Component1.razor.rz.scp.css */
+.my-component[b-3ub1go64ak] {
+    border: 2px dashed red;
+    padding: 1em;
+    margin: 1em 0;
+    background-image: url('background.png');
+}
+/* _content/BeautifulGate.Component/Component/BibleTest.razor.rz.scp.css */
+/* Format Styles */
+.small-text[b-ui5tg4uvsc] {
+    font-size: 16px;
+}
+
+.med-text[b-ui5tg4uvsc] {
+    font-size: 22px;
+}
+
+.large-text[b-ui5tg4uvsc] {
+    font-size: 29px;
+}
+
+.sectionbreak[b-ui5tg4uvsc] {
+    page-break-before: always;
+    clear: both;
+    mso-break-type: section-break
+}
+
+.pagebreak[b-ui5tg4uvsc] {
+    page-break-after: auto;
+    page-break-after: always;
+}
+
+hr[b-ui5tg4uvsc] {
+    border-top: 1px solid lightgray;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+}
+
+.single-space[b-ui5tg4uvsc] {
+    line-height: 1;
+}
+
+.one-half-space[b-ui5tg4uvsc] {
+    line-height: 150%;
+}
+
+.double-space[b-ui5tg4uvsc] {
+    line-height: 2;
+}
+
+.two-half-space[b-ui5tg4uvsc] {
+    line-height: 250%;
+}
+
+.triple-space[b-ui5tg4uvsc] {
+    line-height: 3;
+}
+
+.justified[b-ui5tg4uvsc] {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.right-align[b-ui5tg4uvsc] {
+    text-align: right;
+}
+
+.center-align[b-ui5tg4uvsc] {
+    text-align: center;
+}
+
+.rtl-direct[b-ui5tg4uvsc] {
+    direction: rtl;
+}
+
+/*@page FooterSection {
+    size: 8.5in 11.0in;
+    margin: 1.0in 1.0in 1.0in 1.0in;
+    mso-header-margin: .5in;
+    mso-footer-margin: .5in;
+    mso-header: h1;
+    mso-footer: f1;
+    mso-first-header: h1;
+    mso-first-footer: f1;
+    mso-paper-source: 0;
+    mso-page-numbers: 1;
+}*/
+
+div.one-column[b-ui5tg4uvsc] {
+    column-count: 1;
+    mso-columns: 1;
+    page: ColumnOne;
+}
+
+div.two-column[b-ui5tg4uvsc] {
+    column-count: 2;
+    mso-columns: 2 even .5in;
+    page: Column2;
+}
+
+p.MsoFooter[b-ui5tg4uvsc], li.MsoFooter[b-ui5tg4uvsc], div.MsoFooter[b-ui5tg4uvsc] {
+    margin: 0in;
+    margin-bottom: .0001pt;
+    mso-pagination: widow-orphan;
+    tab-stops: center 3.0in right 6.0in;
+    font-size: 12.0pt;
+}
+
+div.FooterSection[b-ui5tg4uvsc] {
+    page: FooterSection;
+}
+
+table#hrdftrtbl[b-ui5tg4uvsc] {
+    margin: 0in 0in 0in 900in;
+    width: 900px;
+    height: 1px;
+    tab-stops: center 3.0in right 6.0in;
+    overflow: hidden;
+}
+
+/* Marker Specific Styling */
+
+/* Header */
+.header[b-ui5tg4uvsc] {
+    margin-top: 1em;
+    font-size: 1.5em;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.acrostic-heading[b-ui5tg4uvsc] {
+    display: block;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
+
+/* Major Title */
+.majortitle-1[b-ui5tg4uvsc] {
+    display: none;
+    font-size: inherit;
+}
+
+.majortitle-2[b-ui5tg4uvsc] {
+    display: none;
+    font-size: inherit;
+}
+
+.majortitle-3[b-ui5tg4uvsc] {
+    display: none;
+    font-size: inherit;
+}
+
+/* Footnotes */
+.footnotecaller[b-ui5tg4uvsc] {
+    font-size: 0.5em;
+    vertical-align: top;
+    mso-text-raise: 40%;
+}
+
+.footnotes[b-ui5tg4uvsc] {
+    font-size: 0.75em;
+}
+
+.footnote-header[b-ui5tg4uvsc] {
+    font-size: 1.2em;
+}
+
+.footnote-alternate-translation[b-ui5tg4uvsc] {
+    font-style: italic;
+}
+
+/* Chapter */
+.chapter[b-ui5tg4uvsc] {
+    margin-top: 1em;
+    font-size: inherit;
+    position: relative;
+}
+
+.chaptermarker[b-ui5tg4uvsc] {
+    font-size: 1.2em;
+    font-weight: bold;
+    display: block;
+    float: left;
+    margin-right: 0.25em;
+}
+
+/* Poetry */
+.poetry-1[b-ui5tg4uvsc] {
+    font-size: inherit;
+    line-break: normal;
+    display: block;
+    margin-left: 1.5em;
+}
+
+.poetry-2[b-ui5tg4uvsc] {
+    font-size: inherit;
+    line-break: normal;
+    display: block;
+    margin-left: 3em;
+}
+
+.poetry-3[b-ui5tg4uvsc] {
+    font-size: inherit;
+    line-break: normal;
+    display: block;
+    margin-left: 4.5em;
+}
+
+.poetry-outdent-1[b-ui5tg4uvsc] {
+    margin-left: -1.5em;
+}
+
+.poetry-outdent-2[b-ui5tg4uvsc] {
+    margin-left: -3em;
+}
+
+.selah-text[b-ui5tg4uvsc] {
+    font-style: italic;
+    text-align: right;
+}
+
+/* Verse */
+.verse[b-ui5tg4uvsc] {
+    font-size: inherit;
+    font-weight: normal;
+}
+
+.versemarker[b-ui5tg4uvsc] {
+    font-size: 0.5em;
+    /*vertical-align: top;*/
+    mso-text-raise: 60%;
+}
+
+[class^="poetry-"] .versemarker[b-ui5tg4uvsc] {
+    /*position: absolute;*/
+    left: 0;
+}
+
+.closing[b-ui5tg4uvsc] {
+    text-align: right;
+}
+
+.reference[b-ui5tg4uvsc] {
+    font-style: italic;
+}
+
+/* Section */
+.sectionhead-1[b-ui5tg4uvsc] {
+    margin-top: 2em;
+    font-size: 1.2em;
+    font-weight: bold;
+    display: block;
+    /*text-align: center;*/
+    text-transform: uppercase;
+}
+
+.sectionhead-2[b-ui5tg4uvsc] {
+    margin-top: 1em;
+    font-size: 1.1em;
+    font-weight: bold;
+    display: block;
+}
+
+.sectionhead-3[b-ui5tg4uvsc] {
+    margin-top: 1em;
+    font-size: 1.05em;
+    font-weight: bold;
+    display: block;
+}
+
+.section-reference[b-ui5tg4uvsc] {
+}
+
+/* List */
+.list-1[b-ui5tg4uvsc] {
+    line-break: normal;
+    display: block;
+    text-indent: 0px !important;
+}
+
+.list-2[b-ui5tg4uvsc] {
+    line-break: normal;
+    display: block;
+    text-indent: 30px !important;
+}
+
+.list-3[b-ui5tg4uvsc] {
+    line-break: normal;
+    display: block;
+    text-indent: 50px !important;
+}
+
+/* Special Strings */
+.quoted-book[b-ui5tg4uvsc] {
+    font-style: italic;
+}
+
+.additions[b-ui5tg4uvsc] {
+    font-style: italic;
+}
+
+.transliterated[b-ui5tg4uvsc] {
+    font-style: italic;
+}
+
+.small-caps[b-ui5tg4uvsc] {
+    text-transform: uppercase;
+    font-size: 0.75em;
+}
+
+.center-paragraph[b-ui5tg4uvsc] {
+    text-align: center;
+}
+
+.descriptive-text[b-ui5tg4uvsc] {
+    font-style: italic;
+    font-size: 85%;
+}
+
+.word-entry[b-ui5tg4uvsc] {
+    font-size: 1em;
+}
+
+/* Cross Reference */
+.caller[b-ui5tg4uvsc] {
+    font-size: 0.5em;
+    vertical-align: top;
+    mso-text-raise: 40%;
+}
+
+.cross-ref-quote[b-ui5tg4uvsc] {
+    font-style: italic;
+}
+
+.cross-ref[b-ui5tg4uvsc] {
+    font-weight: bold;
+}
+
+.cross-header[b-ui5tg4uvsc] {
+    font-size: 1.2em;
+}
+
+.toc2-ref[b-ui5tg4uvsc] {
+    display: inline;
+    visibility: hidden;
+}
+
+/* Table Markers */
+.table-block[b-ui5tg4uvsc] {
+    width: 50%;
+}
+
+.table-head[b-ui5tg4uvsc] {
+    font-style: italic;
+}
+
+.table-head-right[b-ui5tg4uvsc] {
+    font-style: italic;
+    text-align: right;
+}
+
+.table-cell[b-ui5tg4uvsc] {
+}
+
+.table-cell-right[b-ui5tg4uvsc] {
+    text-align: right;
+}
