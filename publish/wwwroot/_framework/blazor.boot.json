@@ -15,8 +15,8 @@
       "Azure.Core.dll": "sha256-mV+r6h4Q5bYNZWmGqnlVh8j+RvQCuCLcaJBse6KNzZQ=",
       "Azure.Storage.Blobs.dll": "sha256-i1kOiSg2eH8CouVBDTLJld2TEYH3lqiKt9JKiJcOekY=",
       "Azure.Storage.Common.dll": "sha256-WZoYCwuwp\/\/xFd2qvqBuMLXsvxuD9Y2dinvdRnRA5Po=",
-      "BeautifulGate.Blazor.dll": "sha256-5lwIIiiIon3Kg+TO4uWGLVDDwrx677Ioah6LBk\/704w=",
-      "BeautifulGate.Component.dll": "sha256-xgUAks9rW1cA3ElhJy0wKLQD9GXvf6BupwNRoQu2wio=",
+      "BeautifulGate.Blazor.dll": "sha256-nyzO5zJEZVvfMbGvp2vR1iYOnI6e2CknE3Hcct4fk2w=",
+      "BeautifulGate.Component.dll": "sha256-xKvTgfT2e1R7W3OkCW1TuiE8cYDqXwNQoX6opNui86Y=",
       "Blazored.LocalStorage.dll": "sha256-6RRoYeDP3d0xabXmcCMF66wXeJlXVPem28Trs8sQiis=",
       "Blazored.Video.dll": "sha256-zVNaQ7Aju89L5fUokzU+aTpKkBSZtFpn7ifN4LHCOug=",
       "CommunityToolkit.Mvvm.dll": "sha256-XbCEL2GlpJ1Q1Nk72TUh3V22uEyhyfMdI3A\/vJ5mBG8=",
@@ -161,10 +161,10 @@
     },
     "satelliteResources": {
       "id": {
-        "id\/BeautifulGate.Component.resources.dll": "sha256-jYsM9LsrJDEKAUGH3DfRFO\/rEp2SisxDHOkZyUFE5q8="
+        "id\/BeautifulGate.Component.resources.dll": "sha256-V34M0zAZWnSKwnEWJcltMlqXOa4U2oY4rgDb0ThvhZY="
       },
       "zh": {
-        "zh\/BeautifulGate.Component.resources.dll": "sha256-7DVvZovokl5G1PN1AYVqtYI5s2CZDs9v0S\/oXV6UTCY="
+        "zh\/BeautifulGate.Component.resources.dll": "sha256-EMukt58xhmGc2ERA8hw33d9nNtZ6OOd7T6KQ06fpUnI="
       }
     }
   }
