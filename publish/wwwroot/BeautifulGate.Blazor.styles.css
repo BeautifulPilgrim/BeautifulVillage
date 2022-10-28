@@ -82,6 +82,18 @@ main[b-g3znidx85k] {
         padding-right: 1.5rem !important;
     }
 }
+/* /Shared/NavBar.razor.rz.scp.css */
+.docs-appbar-special-menu .mud-list-subheader[b-7x4rt0b75z] 
+{
+    font-weight:bold;
+    font-size: 1rem;
+    color: #8898aa;
+}
+
+.docs-appbar-special-menu .mud-list-item[b-7x4rt0b75z] {
+    border-radius: 6px;
+    margin: 4px 0;
+}
 /* /Shared/NavMenu.razor.rz.scp.css */
 .navbar-toggler[b-86dwo51whx] {
     background-color: rgba(255, 255, 255, 0.1);
